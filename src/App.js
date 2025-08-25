@@ -7,7 +7,7 @@ import axios from 'axios';
 import './App.css';
 
 // API configuration
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://www-inventory-com.onrender.com/api';
 
 // Create axios instance
 export const api = axios.create({
