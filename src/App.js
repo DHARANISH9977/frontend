@@ -465,9 +465,9 @@ function LoginForm({ onLogin, loading }) {
           )}
         </button>
         <div>
-          <h1>Demo login for admin</h1>
-          <h1>admin@example.com</h1>
-          <h3>admin123</h3>
+          <h4>Demo login for admin</h4>
+          <h4>admin@example.com</h4>
+          <h4>admin123</h4>
         </div>
     
       </form>
